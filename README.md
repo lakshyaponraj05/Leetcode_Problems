@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
