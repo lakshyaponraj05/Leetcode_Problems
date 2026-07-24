@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
