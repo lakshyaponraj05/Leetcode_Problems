@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
+| [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
+| [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 ## Simulation
 |  |
 | ------- |
