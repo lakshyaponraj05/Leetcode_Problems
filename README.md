@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
