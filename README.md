@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
