@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
