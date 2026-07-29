@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0015-3sum) |
+| [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
@@ -88,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
