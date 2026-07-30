@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
