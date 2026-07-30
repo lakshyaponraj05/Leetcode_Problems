@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Linked List
 |  |
 | ------- |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
