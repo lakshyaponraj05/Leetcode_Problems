@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 ## Simulation
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
