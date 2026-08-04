@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
