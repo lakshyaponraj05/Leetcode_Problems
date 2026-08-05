@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sliding Window
 |  |
