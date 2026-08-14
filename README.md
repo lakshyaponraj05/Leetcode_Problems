@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
