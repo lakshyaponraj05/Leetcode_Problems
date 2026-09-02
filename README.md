@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -187,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
