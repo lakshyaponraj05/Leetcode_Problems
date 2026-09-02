@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2678-number-of-senior-citizens](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 | [3731-find-missing-elements](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0704-binary-search) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
 | ------- |
