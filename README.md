@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0383-ransom-note](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Linked List
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
