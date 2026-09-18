@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0494-target-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0994-rotting-oranges) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/lakshyaponraj05/Leetcode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
